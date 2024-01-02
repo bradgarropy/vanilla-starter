@@ -3,6 +3,10 @@ import {defineConfig} from "vitest/config"
 
 const config = defineConfig({
     plugins: [tsconfigPaths()],
+    server: {
+        open: true,
+        port: 3000,
+    },
     test: {
         clearMocks: true,
         coverage: {
