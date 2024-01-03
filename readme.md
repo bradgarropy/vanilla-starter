@@ -1,6 +1,6 @@
-# 💿 remix starter
+# 🍦 vanilla starter
 
-_A [Remix][remix] starter with [ESLint][eslint], [Prettier][prettier], [TypeScript][typescript], [Vitest][vitest], and [Tailwind][tailwind] included._
+_A vanilla starter with [ESLint][eslint], [Prettier][prettier], [TypeScript][typescript], [Vitest][vitest], and [Tailwind][tailwind] included._
 
 [![vercel][vercel-badge]][vercel]
 [![github actions][github-actions-badge]][github-actions]
