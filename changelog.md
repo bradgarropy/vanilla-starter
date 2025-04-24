@@ -42,7 +42,9 @@ _2025-04-23_
 
 -   Add a [changelog][changelog]
 -   Update [license][license] year
+-   Add new [ci][ci] GitHub Action
 
+[ci]: .github/workflows/ci.yml
 [license]: license
 [changelog]: changelog.md
 [keep-a-changelog]: https://keepachangelog.com
