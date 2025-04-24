@@ -44,6 +44,7 @@ _2025-04-23_
 - Update [license][license] year
 - Add new [ci][ci] GitHub Action
 - Update all packages
+- Add `npm run dev` script
 
 [ci]: .github/workflows/ci.yml
 [license]: license
