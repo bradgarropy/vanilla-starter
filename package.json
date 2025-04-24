@@ -27,8 +27,9 @@
         "url": "https://github.com/bradgarropy/vanilla-starter"
     },
     "scripts": {
-        "start": "vite",
-        "build": "tsc && vite build",
+        "dev": "vite",
+        "build": "vite build",
+        "start": "vite preview",
         "lint": "eslint .",
         "lint:fix": "eslint --fix .",
         "format": "prettier --check .",
