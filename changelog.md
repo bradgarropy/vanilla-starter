@@ -41,8 +41,9 @@ _YYYY-MM-DD_
 _2025-04-23_
 
 -   Add a [changelog][changelog]
--   Update license year
+-   Update [license][license] year
 
+[license]: license
 [changelog]: changelog.md
 [keep-a-changelog]: https://keepachangelog.com
 [semver]: https://semver.org
