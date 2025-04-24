@@ -41,6 +41,7 @@ _YYYY-MM-DD_
 _2025-04-23_
 
 -   Add a [changelog][changelog]
+-   Update license year
 
 [changelog]: changelog.md
 [keep-a-changelog]: https://keepachangelog.com
