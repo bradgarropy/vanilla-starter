@@ -34,15 +34,15 @@ _YYYY-MM-DD_
 
 ## [Unreleased]
 
--   _TBD_
+- _TBD_
 
 ## [1.2.0][1.2.0]
 
 _2025-04-23_
 
--   Add a [changelog][changelog]
--   Update [license][license] year
--   Add new [ci][ci] GitHub Action
+- Add a [changelog][changelog]
+- Update [license][license] year
+- Add new [ci][ci] GitHub Action
 
 [ci]: .github/workflows/ci.yml
 [license]: license
