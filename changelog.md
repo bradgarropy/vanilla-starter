@@ -34,13 +34,13 @@ _YYYY-MM-DD_
 
 ## [Unreleased]
 
-- _TBD_
+-   _TBD_
 
 ## [1.2.0][1.2.0]
 
 _2025-04-23_
 
-- Add a [changelog][changelog]
+-   Add a [changelog][changelog]
 
 [changelog]: changelog.md
 [keep-a-changelog]: https://keepachangelog.com
